@@ -8,7 +8,7 @@
 
 #import "PhotoViewController.h"
 
-#define PHOTO_NUM		32
+#define PHOTO_NUM		20
 #define INDICATOR_W		60
 #define INDICATOR_H		60
 
